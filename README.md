@@ -32,6 +32,8 @@ a script to quickly spin up local test environments, including replica sets and 
 [mgenerate](https://github.com/rueckstiess/mtools/wiki/mgenerate) <br>
 generates structured pseudo-random data based on a template for testing and reproduction
 
+mscrub (link TBD) <br>
+scrubs sensitive fields from logfiles in preparation for transit
 
 You can find the manual and many usage examples on the [mtools wiki pages](https://github.com/rueckstiess/mtools/wiki).
 
